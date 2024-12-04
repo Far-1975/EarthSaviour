@@ -1,0 +1,15 @@
+name,email,description,category,suggested_category,geo_location,date,status
+John Doe,john@example.com,Issue description,Garbage Collection,Waste,"Street 123, City X, 12345",2024-12-03T12:00:00,Resolved
+Sumanth A N,,qwertyu,Water Management,LABEL_1,"{'street': '', 'city': '', 'pincode': ''}",2024-12-03T19:31:42.457378,Resolved
+Sumanth A N,www.sumanth0033@gmail.com,asdfghj,Garbage Collection,LABEL_0,"{'street': '', 'city': '', 'pincode': ''}",2024-12-03T19:32:36.834821,Resolved
+VIJAYKUMAR,,vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvt,Road Management,Error in Classification,"{'street': '', 'city': '', 'pincode': ''}",2024-12-03T22:50:11.191078,Resolved
+VIJAYKUMAR,,vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvt,Road Management,Error in Classification,"{'street': '', 'city': '', 'pincode': ''}",2024-12-03T22:51:00.297814,Resolved
+VIJAYKUMAR,,vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvt,Road Management,Error in Classification,"{'street': '', 'city': 'Bengaluru', 'pincode': ''}",2024-12-03T22:52:45.808951,Resolved
+VIJAYKUMAR,,cc,Garbage Collection,Error in Classification,"{'street': '', 'city': '', 'pincode': ''}",2024-12-03T23:58:00.249103,Resolved
+vijay,vijay2292@gmail.com,in our colony i plumber is drunk,Other,Error in Classification,"{'street': 'Reva university bangaluru', 'city': '', 'pincode': ''}",2024-12-04T01:03:59.651755,Resolved
+vijaykumar,vijaysonke9901@gmail.com,garbage collection,Garbage Collection,Error in Classification,"{'street': '', 'city': 'yelahanka', 'pincode': '565568'}",2024-12-04T07:43:56.019947,Resolved
+vijaykumar,cvijaysonke9901@gmail.com,garbage waste,Garbage Collection,Error in Classification,"{'street': 'Reva university bangaluru', 'city': '', 'pincode': ''}",2024-12-04T08:04:21.946980,Resolved
+,,,Water Management,Error in Classification,"{'street': 'Reva university bangaluru', 'city': '', 'pincode': ''}",2024-12-04T09:05:16.549208,Open
+,,,Water Management,Error in Classification,"{'street': 'Reva university bangaluru', 'city': '', 'pincode': ''}",2024-12-04T09:11:27.040358,Open
+,,,Water Management,Error in Classification,"{'street': 'Reva university bangaluru', 'city': 'Bengaluru', 'pincode': '560064'}",2024-12-04T10:32:44.511159,Open
+sumanth,su@gmail.com,dfvghxdfghj,Water Management,Error in Classification,"{'street': 'Reva university bangaluru', 'city': 'Bengaluru', 'pincode': '560064'}",2024-12-04T11:27:28.769349,Open
